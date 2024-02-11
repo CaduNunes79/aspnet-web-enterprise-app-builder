@@ -1,0 +1,12 @@
+C:\_src\vs\aspnet-web-enterprise-app-builder\src\building blocks\WEAB.Core\bin\Debug\net6.0\WEAB.Core.deps.json
+C:\_src\vs\aspnet-web-enterprise-app-builder\src\building blocks\WEAB.Core\bin\Debug\net6.0\WEAB.Core.dll
+C:\_src\vs\aspnet-web-enterprise-app-builder\src\building blocks\WEAB.Core\bin\Debug\net6.0\WEAB.Core.pdb
+C:\_src\vs\aspnet-web-enterprise-app-builder\src\building blocks\WEAB.Core\obj\Debug\net6.0\WEAB.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\_src\vs\aspnet-web-enterprise-app-builder\src\building blocks\WEAB.Core\obj\Debug\net6.0\WEAB.Core.AssemblyInfoInputs.cache
+C:\_src\vs\aspnet-web-enterprise-app-builder\src\building blocks\WEAB.Core\obj\Debug\net6.0\WEAB.Core.AssemblyInfo.cs
+C:\_src\vs\aspnet-web-enterprise-app-builder\src\building blocks\WEAB.Core\obj\Debug\net6.0\WEAB.Core.csproj.CoreCompileInputs.cache
+C:\_src\vs\aspnet-web-enterprise-app-builder\src\building blocks\WEAB.Core\obj\Debug\net6.0\WEAB.Core.sourcelink.json
+C:\_src\vs\aspnet-web-enterprise-app-builder\src\building blocks\WEAB.Core\obj\Debug\net6.0\WEAB.Core.dll
+C:\_src\vs\aspnet-web-enterprise-app-builder\src\building blocks\WEAB.Core\obj\Debug\net6.0\refint\WEAB.Core.dll
+C:\_src\vs\aspnet-web-enterprise-app-builder\src\building blocks\WEAB.Core\obj\Debug\net6.0\WEAB.Core.pdb
+C:\_src\vs\aspnet-web-enterprise-app-builder\src\building blocks\WEAB.Core\obj\Debug\net6.0\ref\WEAB.Core.dll

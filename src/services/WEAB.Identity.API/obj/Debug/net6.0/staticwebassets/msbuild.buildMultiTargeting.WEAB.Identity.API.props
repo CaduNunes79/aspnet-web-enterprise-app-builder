@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\WEAB.Identity.API.props" />
+</Project>

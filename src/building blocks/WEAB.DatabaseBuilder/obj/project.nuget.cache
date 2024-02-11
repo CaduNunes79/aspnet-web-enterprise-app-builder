@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "FVjV1rWqda43E5SNBHh5m+AqUNXUsvSeRm9SH24eOhgNp2YcaEEkDnmWEYUHzPttnpp5pEYRrB3s7WwLZ+mjpg==",
+  "success": true,
+  "projectFilePath": "C:\\_src\\vs\\aspnet-web-enterprise-app-builder\\src\\building blocks\\WEAB.DatabaseBuilder\\WEAB.DatabaseBuilder.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nunes\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\nunes\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\nunes\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "C:\\Users\\nunes\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "C:\\Users\\nunes\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "C:\\Users\\nunes\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

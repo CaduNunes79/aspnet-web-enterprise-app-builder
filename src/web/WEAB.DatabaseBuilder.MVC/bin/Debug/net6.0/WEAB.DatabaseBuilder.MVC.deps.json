@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "WEAB.DatabaseBuilder.MVC/1.0.0": {
+        "runtime": {
+          "WEAB.DatabaseBuilder.MVC.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WEAB.DatabaseBuilder.MVC/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

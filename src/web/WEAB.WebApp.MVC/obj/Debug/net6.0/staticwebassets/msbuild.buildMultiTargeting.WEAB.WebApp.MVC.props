@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\WEAB.WebApp.MVC.props" />
+</Project>

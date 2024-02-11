@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\WEAB.DatabaseBuilder.MVC.props" />
+</Project>
